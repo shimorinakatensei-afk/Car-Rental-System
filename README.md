@@ -14,15 +14,15 @@
 
 > **Login Screen**
 
-![Login](https://placehold.co/800x400/1a1a2e/white?text=Login+Screen+-+Customer+%2F+Admin)
+![Login](screenshots/photo1.png)
 
 > **Customer Menu**
 
-![Customer](https://placehold.co/800x400/16213e/white?text=Customer+Menu+-+Browse+%2F+Book+%2F+Return)
+![Customer](screenshots/photo2.png)
 
 > **Admin Panel**
 
-![Admin](https://placehold.co/800x400/0f3460/white?text=Admin+Panel+-+Manage+Fleet+%2F+Bookings)
+![Admin](screenshots/photo3.png)
 
 ---
 
