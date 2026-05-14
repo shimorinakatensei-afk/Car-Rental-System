@@ -10,21 +10,7 @@
 
 ---
 
-## 📸 Screenshots
 
-> **Login Screen**
-
-![Login](screenshots/photo1.png)
-
-> **Customer Menu**
-
-![Customer](screenshots/photo2.png)
-
-> **Admin Panel**
-
-![Admin](screenshots/photo3.png)
-
----
 
 ## ✨ Features
 
